@@ -1,1 +1,3 @@
-# js-week4-project5
+# portfolio
+
+Sample Project to practice with the jQuery Lessons
